@@ -1,2 +1,3 @@
 # HARDLIB
 I'm a beginner of coding. This repository is just for learning.
+Here are some changes I have to make as I need to learn branches...
